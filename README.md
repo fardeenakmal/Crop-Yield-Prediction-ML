@@ -103,7 +103,7 @@ The dataset contains agricultural information related to different crops and sta
 
 ## Dataset Preview
 
-![Dataset Preview](outputs/figures/dataset_preview.png)
+![Dataset Preview](outputs/figures/dataset_preview1.png)
 
 ---
 
